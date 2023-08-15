@@ -1,1 +1,10 @@
+
 alias gs='git status'
+
+alias back='cd ..'
+
+# Docker Stuff
+
+dc='docker-compose'
+dps='docker ps'
+dx='echo "still add this command"'
