@@ -5,6 +5,6 @@ alias back='cd ..'
 
 # Docker Stuff
 
-dc='docker-compose'
-dps='docker ps'
-dx='echo "still add this command"'
+alias dc='docker-compose'
+alias dps='docker ps'
+alias dx='echo "still add this command"'
