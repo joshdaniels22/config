@@ -7,4 +7,4 @@ alias back='cd ..'
 
 alias dc='docker-compose'
 alias dps='docker ps'
-alias dx='echo "still add this command"'
+alias dx='docker rm -f `docker ps -qa`'
