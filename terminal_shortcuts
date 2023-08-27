@@ -5,6 +5,7 @@ eval "$(jump shell bash)"
 
 # Bash Stuff
 alias back='cd ..'
+alias own='sudo chown -R user:user .' # makes everything owned by current user, not root
 
 # Git Stuff
 alias gs='git status'
