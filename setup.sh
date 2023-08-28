@@ -10,4 +10,4 @@ wget https://github.com/gsamokovarov/jump/releases/download/v0.51.0/jump_0.51.0_
 # doesn't work
 # source ~/.bashrc
 
-echo "Done. Open a new shell to use commands."
+echo "Setup complete. Please open a new terminal session to use new aliases.
