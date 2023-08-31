@@ -18,3 +18,6 @@ alias gp='git push'
 alias dc="docker-compose" 
 alias dps="docker ps -a --format 'table {{.ID}}\t{{.Names}}\t{{.Status}}'"
 alias dx='docker rm -f `docker ps -qa`'
+
+# Golang Stuff
+alias ginkgone='ginkgo -r -v -tags=unit_test --failOnPending --progress --trace'
